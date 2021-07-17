@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915398887875",
+    "project_id": "note-takin",
+    "storage_bucket": "note-takin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915398887875:android:72c1d30bd0010367461576",
+        "android_client_info": {
+          "package_name": "com.harpreet.notes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915398887875-k7vv13d0lalputhk0lajtb193ffslvqh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIJu35BAYnB96QWZpfH3pK3wqUW_ibWTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915398887875-k7vv13d0lalputhk0lajtb193ffslvqh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
